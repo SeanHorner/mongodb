@@ -7,7 +7,7 @@ A Scala CLI (Command Line Interface) application.  Data should be parsed from a 
 - productivity tool
 
 ## Tech Stack
-- Python 3.9.0
+- Python 3.9.0 / Scala 2.13.5 / ...
 - MongoDB
 - git SCM (on GitHub)
 
